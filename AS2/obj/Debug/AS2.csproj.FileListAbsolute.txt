@@ -1,0 +1,53 @@
+C:\Users\KIIT\source\repos\AS2\bin\Debug\AS2.exe.config
+C:\Users\KIIT\source\repos\AS2\bin\Debug\AS2.exe
+C:\Users\KIIT\source\repos\AS2\bin\Debug\AS2.pdb
+C:\Users\KIIT\source\repos\AS2\bin\Debug\MetroFramework.dll
+C:\Users\KIIT\source\repos\AS2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.MainFrm.resources
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.LoginFrm.resources
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.Properties.Resources.resources
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.csproj.GenerateResource.cache
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.csproj.CopyComplete
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.exe
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.pdb
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.FrmAddClass.resources
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.StudentsFrm.resources
+C:\Users\KIIT\source\repos\AS2\obj\Debug\AS2.RegisterFrm.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.FrmAddClass.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.MainFrm.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.LoginFrm.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.Properties.Resources.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.RegisterFrm.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.StudentsFrm.resources
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.exe
+C:\Users\KIIT\Desktop\JSL Internship\AS2\obj\Debug\AS2.pdb
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.FrmAddClass.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.MainFrm.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.LoginFrm.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.Properties.Resources.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.RegisterFrm.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.StudentsFrm.resources
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.exe
+C:\Users\KIIT\Desktop\Str.Off_Int.Pr 1W+3F+2C\JSL Internship_F'P'\AS2\obj\Debug\AS2.pdb
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.FrmAddClass.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.MainFrm.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.LoginFrm.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.Properties.Resources.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.RegisterFrm.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.StudentsFrm.resources
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.exe
+C:\Users\KIIT\Desktop\company Internship(4)\JSL Internship_F'P'\AS2\obj\Debug\AS2.pdb
